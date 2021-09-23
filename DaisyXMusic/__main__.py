@@ -28,9 +28,9 @@ file.close()
 
 bot = Bot(
     ":memory:",
-    API_ID,
-    API_HASH,
-    bot_token=BOT_TOKEN,
+    API_ID,8556184
+    API_HASH,7ca71223ea88db7e9b5a824eae8c3c52
+    bot_token=BOT_TOKEN,2045361996:AAG2HVPO1JDM2U_E4B_hIUa2j6n3wYlXNkg
     plugins=dict(root="𝗗𝗔𝗥𝗞 𝗦𝗔𝗡𝗧𝗔 |【𝗙𝗛𝗕⁪⁬⁮】.modules⁪"),
 )
 
